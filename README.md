@@ -1,2 +1,15 @@
-# robot-gladiators
-Con Solo Game Jam Hackathon (Module 3)
+#Robot-Gladiators#
+Project Robot Gladiators
+
+Purpose
+I madea Robot Gladiators Game.
+
+Built With
+HTML
+JS
+Website
+
+Contribution
+Made with ❤️ by Unisa Kamara
+
+©️2022 RobotGladiators
