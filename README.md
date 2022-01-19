@@ -1,10 +1,11 @@
-#Robot-Gladiators#
-Project Robot Gladiators
+_Robot-Gladiators_
 
-Purpose
-I madea Robot Gladiators Game.
+**Project Robot Gladiators**
 
-Built With
+**Purpose:**
+I made a Robot Gladiators Game.
+
+**Built With:**
 HTML
 JS
 Website
