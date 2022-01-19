@@ -272,15 +272,15 @@ var playerInfo = {
 // Enemy info
 var enemyInfo = [
   {
-    name: "Roborto",
+    name: "Santigie Kabineh",
     attack: randomNumber(10, 14)
   },
   {
-    name: "Amy Android",
+    name: "Alimamy Big Teeth",
     attack: randomNumber(10, 14)
   },
   {
-    name: "Robo Trumble",
+    name: "Patoski",
     attack: randomNumber(10, 14)
   }
   
