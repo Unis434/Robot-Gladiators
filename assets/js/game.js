@@ -8,6 +8,8 @@ var fightOrSkip = function() {
     fightOrSkip();
   }
 
+  
+  
   promptFight = promptFight.toLowerCase()
 
   if (promptFight === "skip") {
